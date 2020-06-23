@@ -1,0 +1,12 @@
+admin_tools
+info
+notes
+purge
+recentactions
+speedtest
+stickers
+terminal
+translate
+typer
+userinfo
+weather
